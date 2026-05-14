@@ -11,5 +11,6 @@ Using continous compounding estimate the forward price.
 Automate the construction of maturity-specefic forward prices.
 
 **Graphs**
+
 For all times series data and maturities, tables and visualisations were generated.
 
