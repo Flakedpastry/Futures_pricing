@@ -8,7 +8,7 @@ Using Pandas, Numpy and Matplotlib: <br>
 Clean and join/merge data using Pandas. <br>
 Process Yield curve data process maturities. <br>
 Using continous compounding estimate the forward price. <br>
-Automate the construction of maturity-specefic forward prices.
+Automate the construction of maturity-specific forward prices.
 
 **Graphs**
 
