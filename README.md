@@ -4,7 +4,7 @@ Pythong script for theoretical futures/forwards price modelling using S&P 500 da
 
 **Method**
 
-Using Pandas, Numpy and Matplotlib: /newline
+Using Pandas, Numpy and Matplotlib: <br>
 Clean and join/merge data using Pandas.
 Using Yield curve data process maturities.
 Using continous compounding estimate the forward price.
